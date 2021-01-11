@@ -1,0 +1,10 @@
+.subscribe-btn {
+  height: max-content;
+  width: auto;
+  font-size: 1em;
+  padding: 5px;
+  background: #fca311;
+  color: #f1faee;
+  border: none;
+  cursor: pointer;
+}

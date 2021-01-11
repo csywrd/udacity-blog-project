@@ -1,0 +1,17 @@
+#form-container {
+  display: flex;
+  flex-direction: column;
+  align-content: flex-start;
+  padding: 0.5em;
+}
+
+.form-row {
+  width: 500px;
+  background: whitesmoke;
+  padding: 0.5em;
+}
+
+/* .row-test {
+  background: #e63946;
+  width: 500px;
+} */
